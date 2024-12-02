@@ -1,0 +1,10 @@
+/* Start of Dark CCS */
+body.dark-mode {
+    background-color: rgb(180, 180, 180);
+    color: #000000;
+}
+
+button.dark-mode {
+    background-color: rgb(63, 111, 201);
+    color: #d4d4d4;
+}
